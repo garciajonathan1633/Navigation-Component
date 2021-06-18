@@ -1,4 +1,4 @@
-package com.insulet.android.navigationcomponent
+package com.jonathan.android.navigationcomponent
 
 import org.junit.Test
 

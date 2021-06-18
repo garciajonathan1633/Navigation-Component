@@ -1,4 +1,4 @@
-package com.insulet.android.navigationcomponent
+package com.jonathan.android.navigationcomponent
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
